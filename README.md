@@ -43,27 +43,12 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+<h3 align="center">
+    ─「 ❣️ɴᴇᴄᴇssᴀʀʏ🌹ᴠᴀʀs❣️ 」─
 </h3>
 
-- Upgrade and Update by :
-`sudo apt-get update && sudo apt-get upgrade -y`
-- Install Ffmpeg by :
-`sudo apt-get install python3-pip ffmpeg -y`
-- Install required packages by :
-`sudo apt-get install python3-pip -y`
-- Install pip by :
-`sudo pip3 install -U pip`
-- Install Node js by :
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
-- Clone the repository by :
-`git clone https://github.com/stkeditz/AAROHIxSTRINGBOT && cd AAROHIxSTRINGBOT`
-- ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : `cd (jese AAROHIxSTRINGBOT)` jo name rakhte h
-- Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
-- Finally run the bot by : `python3 main.py`
-- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
-- ɪғ ʏᴏᴜ'ʀᴇ ʜᴀᴠɪɴɢ ᴀɴʏ ɪssᴜᴇs ɪɴ ᴀɴʏ ᴏғ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs, ᴘʟᴇᴀsᴇ sʜᴀʀᴇ ɪᴛ ᴡɪᴛʜ ᴜs
+☞ `BOT_TOKEN` - Get your BOT_TOKEN from [@BotFather](https://t.me/BotFather)<br>
+☞ `MONGO_DB_URI` - Get MONGO_DB_URI from [MongoDB.com](https://cloud.mongodb.com)<br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
