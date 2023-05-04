@@ -17,20 +17,8 @@
             "description": "Username of a group or channel for which you want to set force sub.(without @)",
             "required": true      
         }, 
-        "MONGO_URL": {
-            "description": "mongo db url here",
-            "required": true
-        },
-        "API_ID": {
-            "description": "telegram api id here",
-            "required": true
-        },
         "OWNER_ID": {
             "description": "Telegram id of the person who will known as owner of the bot.",
-            "required": true
-        }, 
-        "API_HASH": {
-            "description": "telegram api hash here",
             "required": true
         }
     },
